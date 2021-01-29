@@ -1,0 +1,4 @@
+#Fri Jan 29 18:30:54 WAT 2021
+base.0=/home/yunwen/Documents/code/mobile/login-signup-ui/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
